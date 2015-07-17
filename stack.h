@@ -1,5 +1,4 @@
 #include<stdlib.h>
-#define RogueValue -9999
 
 typedef struct node{
     StackData data;
